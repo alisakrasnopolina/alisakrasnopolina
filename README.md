@@ -33,12 +33,13 @@
 
 <h2  align="left">My activity 🏃‍♀️</h2>
 
-<p><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisakrasnopolina&" alt="alisakrasnopolina" /></p>
+<p><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisakrasnopolina&theme=dark&background=000000" alt="alisakrasnopolina" /></p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=alisakrasnopolina&stroke=%23BB432C)
 
 <h2  align="left">Connect with me 📪</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alisa-krasnopolina" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="alisa-krasnopolina" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/alisa-krasnopolina" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="alisa-krasnopolina" height="50" width="50" /></a> &nbsp;
+<a href="mailto:alisakras9@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="alisa-krasnopolina" height="50" width="50" /></a>
 </p>
