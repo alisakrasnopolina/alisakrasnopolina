@@ -2,7 +2,7 @@
 
 <h2>About Me 👩‍💻</h2>
 
-<p>I'm Alisa Krasnopolina, a Junior Frontend Developer. I'm 19 years old. I have completed the Web Development Professional Training Course at Practicum by Yandex (721 hours). I am also currently pursuing a Bachelor's degree in Applied Informatics.
+<p>I'm Alisa Krasnopolina, a Junior Frontend Developer. I'm 19 years old. I have completed the Web Development Professional Training Course at Practicum by Yandex. I am also currently pursuing a Bachelor's degree in Applied Informatics.
 </p>
 
 <h2>Skills 🦾</h2>
