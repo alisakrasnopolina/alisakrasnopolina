@@ -45,8 +45,6 @@
 
 <p><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisakrasnopolina&theme=dark&background=000000" alt="alisakrasnopolina" /></p>
 
-![Codewars](https://github.r2v.ch/codewars?user=alisakrasnopolina&stroke=%23BB432C)
-
 <h2  align="left">Connect with me 📪</h2>
 
 <p align="left">
