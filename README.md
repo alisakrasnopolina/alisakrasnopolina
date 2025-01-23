@@ -2,7 +2,7 @@
 
 <h2>About Me 👩‍💻</h2>
 
-<p>I'm Alisa Krasnopolina. I'm 19 years old. I am currently pursuing a Bachelor's degree in Applied Informatics. I have also completed the Mobile Development Java Course at Samsung Innovation Campus and the Web Development Professional Training Course at Practicum by Yandex.</p>
+<p>I'm Alisa Krasnopolina. I'm 20 years old. I am currently pursuing a Bachelor's degree in Applied Informatics. I have also completed the Mobile Development Java Course at Samsung Innovation Campus and the Web Development Professional Training Course at Practicum by Yandex.</p>
 
 <h2>Skills 🦾</h2>
 
